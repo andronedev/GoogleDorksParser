@@ -9,3 +9,5 @@ Un Simple outils recuperer des lien google avec vos dorks
 
 Langage : python
 
+Téléchargement : [https://github.com/andronedev/GoogleDorksParser/releases/](https://github.com/andronedev/GoogleDorksParser/releases/)
+
